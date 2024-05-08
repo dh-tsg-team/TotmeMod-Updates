@@ -74,10 +74,18 @@ New map - Islands (==WIP==)
 
 1. New character
      Seaman - The old league returned
+
+![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/57d03fe3-51de-44ec-a9b8-1495c52843f1)
+
 ### 2024 March
 
 ##### Mod V1.0.5 - Medium
 **30/03/2024**
+
+![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/9fee9af0-e94a-46f0-af89-0b4d977fba70)
+![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/0de52fdb-eea7-42f8-a36d-8ea36b948d3e)
+![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/4f92a0bb-54cd-4057-b814-5cdbc4d941a8)
+
 
 1. New item
      Demonization - Anti-Cannibals/Bomb mice DMG
@@ -116,13 +124,24 @@ New map - Islands (==WIP==)
 
 1. New spells
      Bomb mice - A group of **little** problems
+
+    ![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/9841403f-6e2d-4837-b5d1-bef9980f102e)
      
      Bomb Ship - Troubles crews alot
+
+    ![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/8c6bed96-cc08-4980-970e-e6df02136774)
+
      
      Teleport - Fast travel to a totem
+
+    ![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/da59074c-dd2a-4d68-b0de-33670ba08b62)
+
 
 ##### Mod V1.0.0 - EA
 **21/02/2024**
 
 1. New spells
      Bomb Ship - Troubles crews alot
+   
+   ![image](https://github.com/dh-tsg-team/TotmeMod-Updates/assets/57945487/3888c8a9-9a52-42cc-925b-a6f0e4c81d4e)
+
