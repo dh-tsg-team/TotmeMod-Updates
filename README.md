@@ -4,6 +4,8 @@
 
 If you have any issues plz contact us through discord.
 
+[Join Discord](https://discord.gg/UJBkCBshsq)
+
 ###==Notice==:
 1. You can play ==normally== at official servers
 2. **==DO NOT== use mod to change blood color ! (unsupported)**
