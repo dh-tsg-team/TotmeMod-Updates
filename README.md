@@ -1,21 +1,43 @@
 # Recently events & update logs
-### This mod ==only== compatible with our servers !
-(==**free**== and you can try by using discord bots to get one.)
+> [!IMPORTANT]
+> This mod ==only== compatible with our servers !
+> (==**free**== and you can try by using discord bots to get one.)
 
 If you have any issues plz contact us through discord.
 
 [Join Discord](https://discord.gg/UJBkCBshsq)
 
-###==Notice==:
-1. You can play ==normally== at official servers
-2. **==DO NOT== use mod to change blood color ! (unsupported)**
-3. Do not choose extra characters and spells when playing on an ==unmodded==-server.
-# Latest version: Mod V1.0.8
+> [!TIP]
+> 1. You can play ==normally== at official servers
 
+> [!CATION]
+> 1. ==DO NOT== use mod to change blood color ! (unsupported)**
+> 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
+# Latest version: Mod V1.1.0 update 07/19/2024
+
+### 2024 July
+
+##### Mod v1.1.0 - Great
+**07/19/2024**
+
+1. New map - Archipelago </br>
+     The new area to explore new ways to play.
+
+##### Mod V1.0.9 - Medium 
+**07/13/2024**
+~~New map - Islands (==WIP==)~~ Delayed
+
+1. New spells
+     Transmission - pass your spell charge to your teammate.
+                    It could also help him to recharge his spell quickly.
+          
+2. Item modifications 
+    Wrench - it can fix the ship (even faster than nail).
+  
+3. UI adjustments
+    We added the team logo at the esc menu and a "simple tutorial" button.
+    
 ### 2024 May
-##### Mod V1.0.9
-
-New map - Islands (==WIP==)
 
 ##### Mod V1.0.8 - Medium
 **05/07/2024**
