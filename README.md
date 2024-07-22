@@ -10,7 +10,7 @@ If you have any issues plz contact us through discord.
 > [!TIP]
 > 1. You can play ==normally== at official servers
 
-> [!CATION]
+> [!CAUTION]
 > 1. ==DO NOT== use mod to change blood color ! (unsupported)**
 > 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
 # Latest version: Mod V1.1.0 update 07/19/2024
