@@ -1,10 +1,10 @@
 # Some Incidents of DHA Team Maliciously Attacking My Server
 
-## Main Character: DHA-アサ獅子
+## Main Character: `DHA-アサ獅子`
 
 ### First Attack: 6/20
 
-On June 20th, my public server [https://dhs.moeyy.cn](https://dhs.moeyy.cn) and other websites were attacked. The day before, on June 19th, DHA's public server was officially launched by Mr. Shishi using AI-generated scripts.
+On June 20th, my server [https://dhs.moeyy.cn](https://dhs.moeyy.cn) and other websites were attacked. The day before, on June 19th, DHA's public server(**shit**) was officially launched by `アサ獅子` using AI-generated scripts.
 
 #### Attack Log of My Website:
 
@@ -14,34 +14,35 @@ On June 20th, my public server [https://dhs.moeyy.cn](https://dhs.moeyy.cn) and 
 
 ![1725649115765](images/FuckDhaTeam/1725649115765.png)
 
-When I checked the IP, it seemed familiar. Isn't it from the same school as Mr. Shishi? To verify, I looked into the previous login IPs when Shishi used our server.
+When I checked the IP, it seemed familiar. Isn't it from the same school as `アサ獅子`? To verify, I looked into the previous login IPs when `アサ獅子` used our server.
+Because he was once a member of our team and logged into our server, we can trace his login IP.
 
 ![1725649121249](images/FuckDhaTeam/1725649121249.png)
 
 #### IP Comparison:
 
-- Shishi's login IP: 223.87.156.143
+- `アサ獅子`'s login IP: 223.87.156.143
 - Attacker's IP: 220.166.50.62
 
 Both IPs are from the same location: Southwestern University of Finance and Economics, Tianfu College (Mianyang Campus).
 
 ![1725649164545](images/FuckDhaTeam/1725649164545.png)
 
-Thus, I confronted Mr. Shishi:
+Thus, I confronted `アサ獅子`:
 
 ![1725649182467](images/FuckDhaTeam/1725649182467.png)
 
 ![1725649199804](images/FuckDhaTeam/1725649199804.png)
 
-Skipping the small talk, Mr. Shishi eventually admitted to the attack after I mentioned reporting the attacker's IP to the university. He offered to compensate for my losses and clarified that it wasn’t my server that was DDoS attacked. He admitted his wrongdoing, and we didn’t pursue the matter further.
+Skipping the small talk, ``アサ獅子 eventually admitted to the attack after I mentioned reporting the attacker's IP to the university. He offered to compensate for my losses. He admitted his wrongdoing, and we didn’t pursue the matter further.
 
 ---
 
 ### Second Attack: 9/4
 
-TSG team launched a new website offering free plugins and control panel software, which probably upset DHA. Mr. Shishi attacked our server again.
+TSG team launched a new website offering free plugins and control panel software, which probably upset DHA. `アサ獅子` attacked our server again.
 
-At 16:48, I posted the patch download link: [https://tsg-patch.moeyy.cn](https://tsg-patch.moeyy.cn). By 16:57, Mr. Shishi began scouting my webpage using mobile 4G to hide his IP.
+At 16:48, I posted the patch download link: [https://tsg-patch.moeyy.cn](https://tsg-patch.moeyy.cn). By 16:57, `アサ獅子` began scouting my webpage using mobile 4G to hide his IP.
 
 ![1725649233744](images/FuckDhaTeam/1725649233744.png)
 
@@ -55,12 +56,12 @@ He then attempted an attack using a Hong Kong IP, which was again blocked by fre
 
 ![1725649280560](images/FuckDhaTeam/1725649280560.png)
 
-He carelessly exposed his own IP:
+He carelessly exposed his own IP (mobile network)
 
-- Shishi’s exposed IP: 111.55.148.162
+- `アサ獅子`'s exposed IP: 111.55.148.162
 - Attacker's IP: 112.44.90.15
 
-Upon checking, both IPs were from nearly identical locations, less than 1 km apart. The evidence clearly points to Mr. Shishi as the attacker. Despite undeniable proof, he continues to deny it.
+Upon checking, both IPs were from nearly identical locations, less than 1 km apart. The evidence clearly points to `アサ獅子` as the attacker. Despite undeniable proof, he continues to deny it.
 
 ![1725649291241](images/FuckDhaTeam/1725649291241.png)
 
@@ -68,7 +69,7 @@ Upon checking, both IPs were from nearly identical locations, less than 1 km apa
 
 ### Conclusion:
 
-In DHA, there are a few bad apples who either develop cheats or attack servers. Mr. Shishi is one of them.
+In DHA, there are a few bad apples who either develop cheats or attack servers. `アサ獅子` is one of them.
 
 ### Attack logs:
 
