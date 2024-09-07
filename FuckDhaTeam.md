@@ -49,7 +49,7 @@ At 16:48, I posted the patch download link: [https://tsg-patch.moeyy.cn](https:/
 After scouting, he initiated the first attack at around 17:45 using a Japanese IP: 31.223.184.91. The attack had no effect due to frequency limits. Afterward, I blocked all requests expect for mainland China, Hong Kong, Macau, and Taiwan.
 ![1725649249742](images/FuckDhaTeam/1725649249742.png)
 
-![1725730279595](images/FuckDhaTeam/1725730279595.png)
+![1725730298155](images/FuckDhaTeam/1725730298155.png)
 
 He then attempted to attack using a Hong Kong IP, which was again blocked by frequency limits. Eventually, I discovered his real IP: 112.44.90.15 and confronted him in DC.
 
