@@ -13,7 +13,37 @@ If you have any issues plz contact us through discord.
 > [!CAUTION]
 > 1. ==DO NOT== use mod to change blood color ! (unsupported)**
 > 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
-# Latest version: Mod V1.1.0 update 07/19/2024
+# Latest version: Mod V1.1.1 update 10/13/2024
+
+### 2024 October 
+
+##### Mod v1.1.1 - Medium
+**10/13/2024**
+
+1. New Items
+     Molotov - What's the expense of being warm?
+          Make your friends dacing in the fire!
+     
+     Crystal of heart - As perfect as your heart~
+          Altar will make full use of them.
+
+2. New construction 
+     The altar - near the bell(in the front of deck)
+          1. Pure crystal
+          2. Resurrection (WIP)
+          3. Blood trade
+
+3. Maps adjustment
+     Archipelago
+          1. Fixed some physical collisions.
+          2. Adjusted some areas.
+          3. Optimized ground textures.
+          4. Optimized supplement generation.
+
+4. UI adjustment
+     1. Added a button to show more functions.
+     2. Optimized the "Update logs" button.
+
 
 ### 2024 July
 
