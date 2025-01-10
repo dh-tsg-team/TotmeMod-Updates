@@ -15,6 +15,27 @@ If you have any issues plz contact us through discord.
 > 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
 # Latest version: Mod V1.1.1 update 10/13/2024
 
+### 2025 January
+
+##### Mod v1.1.3 - Medium
+**5/1/2025**
+
+1. New Characters
+     Witch - A bottle of poison
+          Born with 3*herbs and a poisoned knife.
+          Faster in health recovering.
+
+2. New decorations
+     With character and ship decorations like the DLC.
+     **Not available, still in testing**
+
+3. Adjustments
+   Archipelago - recall changes from last update
+   Poisoned knife - DMG 19 (Broken 13)
+                    Recipe: 2*steel -> 1*steel
+   Wendigo - No amount limitation
+   Bomb mice - No longer possibly to highlight by plugins
+
 ### 2024 October 
 
 ##### Mod v1.1.1 - Medium
