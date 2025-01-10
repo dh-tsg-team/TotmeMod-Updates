@@ -13,7 +13,7 @@ If you have any issues plz contact us through discord.
 > [!CAUTION]
 > 1. ==DO NOT== use mod to change blood color ! (unsupported)**
 > 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
-# Latest version: Mod V1.1.1 update 10/13/2024
+# Latest version: Mod V1.1.3 update 5/1/2025
 
 ### 2025 January
 
