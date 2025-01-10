@@ -13,7 +13,51 @@ If you have any issues plz contact us through discord.
 > [!CAUTION]
 > 1. ==DO NOT== use mod to change blood color ! (unsupported)**
 > 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
-# Latest version: Mod V1.1.1 update 10/13/2024
+# Latest version: Mod V1.1.3 update 5/1/2025
+
+### 2025 January
+
+##### Mod v1.1.3 - Medium
+**5/1/2025**
+
+1. New Characters
+     Witch - A bottle of poison
+          Born with 3*herbs and a poisoned knife.
+          Faster in health recovering.
+
+2. New decorations
+     With character and ship decorations like the DLC.
+     **Not available, still in testing**
+
+3. Adjustments
+   Archipelago - recall changes from last update
+   Poisoned knife - DMG 19 (Broken 13)
+                    Recipe: 2*steel -> 1*steel
+   Wendigo - No amount limitation
+   Bomb mice - No longer possibly to highlight by plugins
+
+### 2024 December
+
+##### Mod v1.1.2 - Medium
+**12/31/2024**
+
+1. New Items
+     Poisoned knife - "Doctor, what do u did?"
+         Available in armory table
+         Make with 2*steel and 1*iron
+         (You need to poison it yourself)
+     
+     Steel - harder than iron
+         Available in supplies
+
+     Alcohol - "Bro you really need in storm"
+         Available at cooker(in ship)
+         Increase your health recovering speed(30% Faster, reset at death)
+         Warm yourself(of course)
+
+2. New construction
+     The armory table (at captain's room)
+         To shape your weapon (+5 DMG)
 
 ### 2024 October 
 
@@ -31,7 +75,7 @@ If you have any issues plz contact us through discord.
      The altar - near the bell(in the front of deck)
           1. Pure crystal
           2. Resurrection (WIP)
-          3. Blood trade
+          3. Bloody trade
 
 3. Maps adjustment
      Archipelago
