@@ -36,6 +36,29 @@ If you have any issues plz contact us through discord.
    Wendigo - No amount limitation
    Bomb mice - No longer possibly to highlight by plugins
 
+### 2024 December
+
+##### Mod v1.1.2 - Medium
+**12/31/2024**
+
+1. New Items
+     Poisoned knife - "Doctor, what do u did?"
+         Available in armory table
+         Make with 2*steel and 1*iron
+         (You need to poison it yourself)
+     
+     Steel - harder than iron
+         Available in supplies
+
+     Alcohol - "Bro you really need in storm"
+         Available at cooker(in ship)
+         Increase your health recovering speed(30% Faster, reset at death)
+         Warm yourself(of course)
+
+2. New construction
+     The armory table (at captain's room)
+         To shape your weapon (+5 DMG)
+
 ### 2024 October 
 
 ##### Mod v1.1.1 - Medium
@@ -52,7 +75,7 @@ If you have any issues plz contact us through discord.
      The altar - near the bell(in the front of deck)
           1. Pure crystal
           2. Resurrection (WIP)
-          3. Blood trade
+          3. Bloody trade
 
 3. Maps adjustment
      Archipelago
