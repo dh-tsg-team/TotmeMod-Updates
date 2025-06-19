@@ -31,6 +31,7 @@ If you have any issues plz contact us through discord.
 
 3.UI adjustment
      1.Now no longer display mod recipe in non-modded game
+
 4.Misc
      1.Add telescope recipe at aromy table
 
