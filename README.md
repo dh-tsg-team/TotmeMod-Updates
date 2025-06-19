@@ -29,9 +29,9 @@ If you have any issues plz contact us through discord.
 2.BUG fix
      1.Witch's Collision now works correctly after her death
 
-3. UI adjustment
+3.UI adjustment
      1.Now no longer display mod recipe in non-modded game
-4. Misc
+4.Misc
      1.Add telescope recipe at aromy table
 
 ### 2025 March
