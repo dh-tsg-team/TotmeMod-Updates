@@ -12,10 +12,96 @@ If you have any issues plz contact us through discord.
 
 > [!CAUTION]
 > 1. ==DO NOT== use mod to change blood color ! (unsupported)**
-> 2. Do not choose extra characters and spells when playing on an ==unmodded==-server.
-# Latest version: Mod V1.1.3 update 5/1/2025
+> 2. Do not equip mod's characters and spells when playing on an ==unmodded==-server.
+# Latest version: Mod V1.1.7 update 25/5/2025
+
+### 2025 May
+
+##### Mod v1.1.7 - Medium
+**25/5/2025**
+1.New item
+     1.Pistol-upgrade - aim more accurate, DMG changed(42->52)
+     2.Musket-upgrade - aim more accurate, DMG changed(60->75)
+     3.AWP - with a scope, DMG 90, can be used 3 times
+     4.Slow Crystal - you are no longer recover your power at a circle area
+     5.Liquid Detergent - recover your guns
+
+2.BUG fix
+     1.Witch's Collision now works correctly after her death
+
+3. UI adjustment
+     1.Now no longer display mod recipe in non-modded game
+4. Misc
+     1.Add telescope recipe at aromy table
+
+### 2025 March
+
+##### Mod v1.1.6 - Medium
+**20/3/2025**
+1.New construction
+     1.Sink - Let your mind less wild
+          Good foor your mind and let you less anthropophagy
+     2.Phonograph - relax your mind with music(at captial's room)
+
+2.New Item
+     1.Salior's Knife - Seaman's favourite
+     2.Warm clothes - increase your warmth every 5s
+     3.Analgesic - recover your health but it will lose by time ticking
+     4.Bow-upgrade - spend less time to charge and aim faster (get from bear and wolf)
+
+3.Balance Adjustment
+     1.Better trap now only require 1*iron to make(8s CD)
+     2.Bonesaw - DMG(12->11)
+     3.Doctor - Bonesaw will replace cleaver
+     4.Seaman - Salior's Knife will replace Bonesaw
+     5.Hannibal - recieve DMG from cannibals reduced(5->2.5)
+     6.Hannibal - spend less time to make Wendigo(60s->30s)
+
+4.UI adjustment
+     1.Reworked some icon elements
+     2."version" renamed to "TSG Mod"
+     
+### 2025 February
+
+##### Mod v1.1.5 - Medium
+**16/2/2025**
+>[!CAUTION]
+>Mod v1.1.5 does NOT compatible with older versions
+>PLZ UPDATE before playing
+
+1.New Item
+     Better trap - faster to deploy than normal one
+
+2.Balance Adjustment
+     1.The spell "Scary" cd change to 200
+          The target will DROP all items
+     2.Poisoned arrorws
+          recipe changed(2*Iron + 4*Wood + 1*Poison)
+
+3.BUG fix
+     1.Scary now works properly for those who died for once.
+     2.Fix a server crash due to making poisoned arrorws
+
+4.UI adjustment
+     1."More" now can change the blood color.
 
 ### 2025 January
+
+##### Mod v1.1.4 - Medium
+**21/1/2025**
+
+1.New Spell
+     Scary - Panic flash into your mind
+          Forcing the target player not able to hold items
+          (Level I/II/III 6s/15s/30s)
+
+2.New Item
+     Poisoned arrorws - Poison player for a short period
+          Available at the armory table (Arrorws*4 + 1*Steel + 1*Poison)
+
+3. New decorations
+     With character and ship decorations like the DLC.
+     **Available now**
 
 ##### Mod v1.1.3 - Medium
 **5/1/2025**
